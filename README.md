@@ -49,8 +49,7 @@
 
 ### Connect With Me
 
-<p align="left">
-<a href="www.linkedin.com/in/sahil-soni-6b64921b4">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
-</a>
-</p>
+### 📫 Connect with me:
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sahil-soni-6b64921b4)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=google-chrome&logoColor=white)](https://fronts.ai/sinfo)
