@@ -47,6 +47,11 @@
 
 ---
 
+### 📊 My GitHub Stats
+![Sahil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sonisahil658&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sonisahil658&layout=compact&theme=tokyonight)
+
+
 ### Connect With Me
 
 ### 📫 Connect with me:
