@@ -15,6 +15,13 @@
 - Focused on Business Intelligence & Dashboard Development
 
 ---
+### Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sahil-soni-6b64921b4)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=google-chrome&logoColor=white)](https://fronts.ai/sinfo)
+---
+
+
 ### Technical Skills
 
 
@@ -48,7 +55,4 @@
 ---
 
 
-### Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sahil-soni-6b64921b4)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=google-chrome&logoColor=white)](https://fronts.ai/sinfo)
